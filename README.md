@@ -13,7 +13,7 @@ I spend most of my time coding outstanding projects.
 #### Top Technologies
 
 ![Static Badge](https://img.shields.io/badge/js-black?style=flat&logo=Javascript&logoColor=%23F7DF1E&labelColor=black)
-![Static Badge](https://img.shields.io/badge/react-white?style=flat&logo=React&logoColor=%2361DAFB&labelColor=blue)
+![Static Badge](https://img.shields.io/badge/react-black?style=flat&logo=React&logoColor=%2361DAFB&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/node-black?style=flat&logo=Node.js&logoColor=%23339933&labelColor=green)
 ![Static Badge](https://img.shields.io/badge/nest-black?style=flat&logo=Nestjs&logoColor=%23E0234E&labelColor=white)
 
