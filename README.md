@@ -7,7 +7,7 @@ I spend most of my time coding outstanding projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=%230A66C2&labelColor=white)](https://www.linkedin.com/in/pavlo-yamchynskyi-27375b83/)
 
-![Static Badge](https://img.shields.io/badge/Pavlo%20Yamchinsky-red?style=flat&logo=Gmail&logoColor=%23EA4335&labelColor=white&link=pavloyamchinsky%40gmail.com)
+[![Static Badge](https://img.shields.io/badge/Pavlo%20Yamchinsky-red?style=flat&logo=Gmail&logoColor=%23EA4335&labelColor=white)](pavloyamchinsky%40gmail.com)
 
 
 #### Top Technologies
