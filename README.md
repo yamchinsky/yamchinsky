@@ -10,15 +10,14 @@ I spend most of my time coding outstanding projects.
 ![Static Badge](https://img.shields.io/badge/Pavlo%20Yamchinsky-red?style=flat&logo=Gmail&logoColor=%23EA4335&labelColor=white&link=pavloyamchinsky%40gmail.com)
 
 
+#### Top Technologies
+
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=flat&logo=Javascript&logoColor=%23F7DF1E&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/react-white?style=flat&logo=React&logoColor=%2361DAFB&labelColor=blue)
+
+![Static Badge](https://img.shields.io/badge/node-black?style=flat&logo=Node.js&logoColor=%23339933&labelColor=green)
+
+![Static Badge](https://img.shields.io/badge/nest-black?style=flat&logo=Nestjs&logoColor=%23E0234E&labelColor=white)
 
 
-
-
-
-- 🔭 I’m currently working on many nice and interesting projects
-- 🌱 I’m currently learning next.js
-- 👯 I’m looking to collaborate on any IT topics
-- 💬 Ask me about whatever you want to ask)
-- 📫 How to reach me: +380967787515
-- 😄 Pronouns: Pavlo
-- ⚡ Fun fact: ...
