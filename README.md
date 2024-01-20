@@ -22,4 +22,4 @@ I spend most of my time coding outstanding projects.
 </br>
 </br>
 
-[![Pavlo Yamchinsky stats](https://github-readme-stats.vercel.app/api/wakatime?username=yamchinsky)](https://github.com/anuraghazra/github-readme-stats)
+[![Pavlo Yamchinsky Github stats](https://github-readme-stats.vercel.app/api/?username=yamchinsky)](https://github.com/anuraghazra/github-readme-stats)
