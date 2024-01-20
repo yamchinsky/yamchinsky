@@ -19,6 +19,7 @@ I spend most of my time coding outstanding projects.
 ![Static Badge](https://img.shields.io/badge/nest-black?style=flat&logo=Nestjs&logoColor=%23E0234E&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/graphql-black?style=flat&logo=GraphQl&logoColor=%23E10098&labelColor=white)
 
+</br>
+</br>
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamchinsky&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
