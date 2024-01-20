@@ -17,7 +17,8 @@ I spend most of my time coding outstanding projects.
 ![Static Badge](https://img.shields.io/badge/react-black?style=flat&logo=React&logoColor=%2361DAFB&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/node-black?style=flat&logo=Node.js&logoColor=%23339933&labelColor=green)
 ![Static Badge](https://img.shields.io/badge/nest-black?style=flat&logo=Nestjs&logoColor=%23E0234E&labelColor=white)
-![Static Badge](https://img.shields.io/badge/GraphQl-black?style=flat&logo=GraphQl&logoColor=%23E10098&labelColor=white)
+![Static Badge](https://img.shields.io/badge/graphql-black?style=flat&logo=GraphQl&logoColor=%23E10098&labelColor=white)
+
 
 
 
