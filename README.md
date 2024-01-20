@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**yamchinsky/yamchinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on many nice projects
 - 🌱 I’m currently learning next.js
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +380967787515
 - 😄 Pronouns: Pavlo
 - ⚡ Fun fact: ...
--->
