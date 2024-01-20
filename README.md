@@ -5,7 +5,8 @@ I spend most of my time coding outstanding projects.
 
 :mailbox: Reach me out pavloyamchinsky@gmail.com
 
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpavlo-yamchynskyi-27375b83%2F)
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=%230A66C2)
+
 
 
 
