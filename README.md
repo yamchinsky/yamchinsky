@@ -1,5 +1,9 @@
 Hi there 👋 I'm Pavlo Yamchinsky.
+</br>
+</br>
 <a href="https://yamchinsky.netlify.app/#/">Short bio</a>
+</br>
+</br>
 I'm Software Engineer with more than three years of experience in Front-end and Back-end technologies.
 I spend most of my time coding outstanding projects.
 
